@@ -8,7 +8,7 @@
 ## 💼 Internship Experience
 
 ### 🌐 Digital Marketing Intern – E-tailed Digital Services Pvt. Ltd. (via AICTE)
-- Working on live campaigns, analytics, and marketing strategy.
+- Worked on live campaigns, analytics, and marketing strategy.
 
 ### 💻 Web Development Intern – VaultofCodes
 - Learning HTML, CSS, and GitHub basics.

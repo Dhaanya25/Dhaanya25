@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Dhaanya!
 
-🎓 First-year B.E. CSE Student  
-🚀 Exploring Digital Marketing, Web Development, and Product Tools
-
+🎓 Pre-final year B.E. CSE Student 
 ---
 
 ## 💼 Internship Experience
@@ -23,7 +21,7 @@
 
 - **Digital Marketing**: SEO, campaign strategy, analytics  
 - **Web Development**: HTML, CSS, Git & GitHub  
-- **Tools**: Notion, Todoist 
+- **Tools**: Canva, Notion, Todolist 
 - **Soft Skills**: Communication, Collaboration, Task Management
 
 ---
